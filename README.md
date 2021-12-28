@@ -11,9 +11,9 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 I currently participate in the UNAME Research Group at UFAPE
-- 🌱 I’m currently learning **Python, NumPy, OpenCV, PHP and Laravel**
-- 👯 I’m looking to collaborate on **data science and computer vision projects**
+- 🔭 I'm currently participate in the UNAME Research Group at UFAPE
+- 🌱 I'm currently learning Python, NumPy, OpenCV, PHP and Laravel
+- 👯 I'm looking to collaborate on data science and computer vision projects
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
