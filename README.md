@@ -38,5 +38,5 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vngabriel"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight" alt="vngabriel" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight&count_private=true" alt="vngabriel" />
 </div>
