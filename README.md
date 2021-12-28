@@ -36,7 +36,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - E-mail: [gabrielalmeidavn@gmail.com](mailto:gabrielalmeidavn@gmail.com)
 - Kaggle: [Gabriel Viana](https://www.kaggle.com/gabrielvn)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vngabriel"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight" alt="vngabriel" />
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vngabriel"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight" alt="vngabriel" />
 </div>
