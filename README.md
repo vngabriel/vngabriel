@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Gabriel Viana</h1>
+<p align="center">
+  <img src="https://github.com/vngabriel/vngabriel/raw/main/assets/header-github.gif" alt="Hi, I'm Gabriel">
+</p>
+
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 I'm currently working on UNAME Research Group at UFAPE
 - 🌱 I’m currently learning **Python, NumPy, OpenCV, PHP and Laravel**
 - 👯 I’m looking to collaborate on **data science and computer vision projects**
-- 📊 Enthusiast about computer vision, data science and math
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
