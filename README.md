@@ -31,10 +31,10 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <h3 align="left">Connect with me:</h3>
 
-- LinkedIn: [Gabriel Viana](https://www.linkedin.com/in/gabrielvn/)
-- Twitter: [@vngabe](https://www.twitter.com/vngabe)
+- LinkedIn: <a href="https://www.linkedin.com/in/gabrielvn/" target="_blank">Gabriel Viana</a>
+- Twitter: <a href="https://www.twitter.com/vngabe" target="_blank">@vngabe</a>
 - E-mail: gabrielalmeidavn@gmail.com
-- Kaggle: [Gabriel Viana](https://www.kaggle.com/gabrielvn)
+- Kaggle: <a href="https://www.kaggle.com/gabrielvn" target="_blank">Gabriel Viana</a>
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vngabriel"/> 
