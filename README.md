@@ -33,7 +33,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - LinkedIn: [Gabriel Viana](https://www.linkedin.com/in/gabrielvn/)
 - Twitter: [@vngabe](https://www.twitter.com/vngabe)
-- E-mail: [gabrielalmeidavn@gmail.com](mailto:gabrielalmeidavn@gmail.com)
+- E-mail: gabrielalmeidavn@gmail.com
 - Kaggle: [Gabriel Viana](https://www.kaggle.com/gabrielvn)
 
 <div align="left">
