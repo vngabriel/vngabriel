@@ -37,7 +37,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - Kaggle: <a href="https://www.kaggle.com/gabrielvn" target="_blank">Gabriel Viana</a>
 
 <div align="left">
-  <a href="https://github.com/vngabriel"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vngabriel"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight&count_private=true" alt="vngabriel" />
+  <a href="https://github.com/vngabriel">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vngabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngabriel&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
 </div>
