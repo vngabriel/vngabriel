@@ -24,4 +24,3 @@
 
 - LinkedIn: <a href="https://www.linkedin.com/in/gabrielvn/" target="_blank">Gabriel Viana</a>
 - E-mail: gabrielalmeidavn@gmail.com
-- Kaggle: <a href="https://www.kaggle.com/gabrielvn" target="_blank">Gabriel Viana</a>
