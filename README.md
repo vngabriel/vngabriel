@@ -19,8 +19,3 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-<h3 align="left">Connect with me:</h3>
-
-- LinkedIn: <a href="https://www.linkedin.com/in/gabrielvn/" target="_blank">Gabriel Viana</a>
-- E-mail: gabrielalmeidavn@gmail.com
